@@ -1,0 +1,274 @@
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_1
+acc: 0.7716384022471372
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_10
+acc: 0.8383616033331166
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_2
+acc: 0.6380204744273055
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_3
+acc: 0.7404924057151416
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_4
+acc: 0.7846708098805364
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_5
+acc: 0.7318038844816742
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_6
+acc: 0.8060504721338438
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_7
+acc: 0.7257742984192084
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_8
+acc: 0.6429940440132624
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_111757_1_9
+acc: 0.5120072461587799
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_1
+acc: 0.7548287388718499
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_10
+acc: 0.7155063403962545
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_2
+acc: 0.7614336675443708
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_3
+acc: 0.7642291054272548
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_4
+acc: 0.6267814012425451
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_5
+acc: 0.38995630386486857
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_6
+acc: 0.5119923090230888
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_7
+acc: 0.6508445299380308
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_8
+acc: 0.4911582508967976
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124000_1_9
+acc: 0.5180506223877528
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_1
+acc: 0.6971569234739826
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_2
+acc: 0.6347476821998449
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_3
+acc: 0.5636081944593625
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_4
+acc: 0.7663903799022685
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_5
+acc: 0.766957792773771
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_6
+acc: 0.7509470803122849
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_7
+acc: 0.7177134123440615
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_124612_1_8
+acc: 0.6315667106631045
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_1
+acc: 0.701648943890388
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_2
+acc: 0.6087506168995562
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_3
+acc: 0.6763879288148809
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_4
+acc: 0.6105957690585386
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_5
+acc: 0.6190985072276518
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_6
+acc: 0.4683631107797123
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_7
+acc: 0.6902031513888008
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_8
+acc: 0.7488448056358101
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_134301_1_9
+acc: 0.6771532528998171
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_1
+acc: 0.8121022224424392
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_2
+acc: 0.7272397752177153
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_3
+acc: 0.709675250177071
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_4
+acc: 0.7059245896464001
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_5
+acc: 0.7151013911588913
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_6
+acc: 0.686610308997696
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_7
+acc: 0.7062943947444141
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_8
+acc: 0.6957260256354804
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_193610_1_9
+acc: 0.688964393593199
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_1
+acc: 0.7849704490591437
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_2
+acc: 0.7396600922833582
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_3
+acc: 0.7779164219288445
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_4
+acc: 0.7661507259007279
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_5
+acc: 0.690030671896338
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_6
+acc: 0.6728464611975793
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_7
+acc: 0.7479972798459187
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_8
+acc: 0.7490403287932896
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190925_200805_1_9
+acc: 0.6591937113614713
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_1
+acc: 0.8185302721725478
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_2
+acc: 0.760117472835195
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_3
+acc: 0.7526268977383563
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_4
+acc: 0.6169021246554328
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_5
+acc: 0.7386801141779877
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_6
+acc: 0.773508032501706
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_7
+acc: 0.788508073877715
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_8
+acc: 0.7447943500684522
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_095902_1_9
+acc: 0.8373728123341503
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_1
+acc: 0.8657583956783264
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_2
+acc: 0.7680689018110771
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_3
+acc: 0.7060703615965607
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_4
+acc: 0.6416349386747406
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_5
+acc: 0.6923830426208809
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_6
+acc: 0.7767397791734975
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_7
+acc: 0.7373290888862533
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_8
+acc: 0.801401886132391
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_102042_1_9
+acc: 0.7131811894240341
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_1
+acc: 0.8808156924089878
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_2
+acc: 0.8695960866908102
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_3
+acc: 0.7011511577995315
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_4
+acc: 0.8606042789016447
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_5
+acc: 0.8236243156669254
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_6
+acc: 0.809688164486437
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_7
+acc: 0.8450757583383072
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_8
+acc: 0.7903342430898915
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_111509_1_9
+acc: 0.7951772027585506
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_1
+acc: 0.7015343309830074
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_2
+acc: 0.5835028061766713
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_3
+acc: 0.6525622924604488
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_4
+acc: 0.5805998577486267
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_5
+acc: 0.6495109664842513
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_6
+acc: 0.706122402995339
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_7
+acc: 0.6952869725376825
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_8
+acc: 0.7780320397724331
+
+Subfolder: E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test\20190926_134054_1_9
+acc: 0.7897146100225646
+
+Mean acc: 0.7119638964910776
