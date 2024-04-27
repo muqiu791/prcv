@@ -12,8 +12,8 @@ RGBTmodel = 'infrared'  # 'infrared' 'visible'
 # S = 8
 # N = 16 + 8  # number of points to track
 H, W = 512, 640
-dataset_root = 'E:/PIPs/Anti-UAV-RGBT/test'
-output_root = 'E:/PIPs/pips-main/Myoutput/Anti-UAV-RGBT/test'
+dataset_root = '../../Anti-UAV-RGBT/test'
+output_root = '../../tracking/Myoutput/Anti-UAV-RGBT/test'
 
 # 获取所有子文件夹的列表
 subfolders = [f.path for f in os.scandir(output_root) if f.is_dir()]

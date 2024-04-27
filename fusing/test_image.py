@@ -16,7 +16,7 @@ import cv2
 import pywt
 from skimage import img_as_ubyte
 
-RGBTmodel = 'fuseIR_UnaffVIS'  # 'fuseIRVIS' 'fuseIR_UnaffVIS'
+RGBTmodel = 'fuseIRVIS'  # 'fuseIRVIS' 'fuseIR_UnaffVIS'
 
 # input order should follow the order of "irBase,viBase,irDetail,viDetail" far, near,  far, near
 def _generate_fusion_mf(model, imgBase1, imgBase2, imgDetail1, imgDetail2):
@@ -170,8 +170,8 @@ def run_demo(model, irBase_path, irDetail_path, visBase_path, visDetail_path, ou
 
 
 def main():
-    dataset_root = 'E:/PIPs/Anti-UAV-RGBT/test'
-    test_root_path = 'E:/PIPs/pips-main/Myoutput/Anti-UAV-RGBT/test'
+    dataset_root = '../../Anti-UAV-RGBT/test'
+    test_root_path = '../../tracking/Myoutput/Anti-UAV-RGBT/test'
 
     fusion_type = 'auto'  # auto, fusion_layer, fusion_all
     strategy_type_list = ['AVG', 'L1', 'SC', 'MAX',

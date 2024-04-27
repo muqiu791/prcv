@@ -278,9 +278,9 @@ def main():
 
     # 指定数据集根目录
     if RGBTmodel == 'infrared' or RGBTmodel == 'visible':
-        dataset_root = 'E:/PIPs/Anti-UAV-RGBT/test'
+        dataset_root = '../../PIPs/Anti-UAV-RGBT/test'
     else:
-        dataset_root = 'E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test'
+        dataset_root = '../../fusing/outputs/Anti-UAV-RGBT/test'
 
     # 获取所有子文件夹的列表
     subfolders = [f.path for f in os.scandir(dataset_root) if f.is_dir()]
