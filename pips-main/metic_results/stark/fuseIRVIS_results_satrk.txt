@@ -1,0 +1,266 @@
+test_root_path: /root/autodl-tmp/Stark/test/tracking_results/stark_st/baseline_R101
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_1
+acc: 0.6761531918044373
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_10
+acc: 0.2454793763654647
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_2
+acc: 0.37564244974132566
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_3
+acc: 0.44376568638158165
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_4
+acc: 0.39814783927835906
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_5
+acc: 0.3527218166313142
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_6
+acc: 0.3341866109905228
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_7
+acc: 0.29630939975656423
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_111757_1_9
+acc: 0.35167935863828015
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_1
+acc: 0.7634076163708543
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_10
+acc: 0.5385030932801356
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_2
+acc: 0.6666424023161758
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_3
+acc: 0.6892468271486919
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_4
+acc: 0.4180251223192471
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_5
+acc: 0.04793509130454162
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_6
+acc: 0.30829831356854825
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_7
+acc: 0.368662452530681
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_8
+acc: 0.21608886001339728
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124000_1_9
+acc: 0.32268006915995495
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_1
+acc: 0.5078116469670194
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_2
+acc: 0.3963036474562968
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_3
+acc: 0.06722219794387883
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_4
+acc: 0.719740343381179
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_5
+acc: 0.7188486778978134
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_6
+acc: 0.7620014270678314
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_7
+acc: 0.5757543189072831
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_124612_1_8
+acc: 0.463936707346919
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_1
+acc: 0.4211558402153483
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_2
+acc: 0.6023582274874549
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_3
+acc: 0.01151367386993325
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_4
+acc: 0.4341283751710878
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_5
+acc: 0.4365382301558457
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_6
+acc: 0.2365721978832615
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_7
+acc: 0.638878644662315
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_8
+acc: 0.6404565883426749
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_134301_1_9
+acc: 0.6112639107135674
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_2
+acc: 0.5353571904093892
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_3
+acc: 0.7045894777815933
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_4
+acc: 0.4721356715375877
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_5
+acc: 0.6505976505394732
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_6
+acc: 0.8017753503237577
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_7
+acc: 0.8371584842950553
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_8
+acc: 0.8170915046812257
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_193610_1_9
+acc: 0.7623286226921343
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_1
+acc: 0.35474950681639317
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_2
+acc: 0.1933643011935338
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_3
+acc: 0.5434513614834692
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_4
+acc: 0.5460501488953291
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_5
+acc: 0.4712292347827239
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_6
+acc: 0.4991965291887113
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_7
+acc: 0.42754283023355444
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190925_200805_1_9
+acc: 0.1942727804217205
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_1
+acc: 0.7061716797620627
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_2
+acc: 0.7394168075233247
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_3
+acc: 0.5109515158234609
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_4
+acc: 0.5893302709280094
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_5
+acc: 0.5339013293556689
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_6
+acc: 0.7099655364255097
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_7
+acc: 0.6421612089000994
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_8
+acc: 0.6626744411343595
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_095902_1_9
+acc: 0.7406609710005625
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_1
+acc: 0.8124801148685405
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_2
+acc: 0.44856139945558754
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_3
+acc: 0.5125487227155204
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_4
+acc: 0.5225597381832215
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_5
+acc: 0.6254601810069165
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_6
+acc: 0.6611419305886106
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_7
+acc: 0.6891556109422395
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_8
+acc: 0.7196591003989623
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_102042_1_9
+acc: 0.5332703442865184
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_1
+acc: 0.741913936582732
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_2
+acc: 0.7625169800910884
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_3
+acc: 0.6442283977542415
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_4
+acc: 0.7057211023560552
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_5
+acc: 0.7140382272267036
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_6
+acc: 0.7106885183384597
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_7
+acc: 0.6919440908582997
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_8
+acc: 0.7433739281887956
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_111509_1_9
+acc: 0.5865323486707287
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_1
+acc: 0.649459266614086
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_2
+acc: 0.5090382076781935
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_3
+acc: 0.5162101667391537
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_4
+acc: 0.3469472529716421
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_5
+acc: 0.2399487839242177
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_6
+acc: 0.6008448327318847
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_7
+acc: 0.6340670980604184
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_8
+acc: 0.6416608652209038
+
+Subfolder: /root/autodl-tmp/Stark/data/Anti-UAV/test/20190926_134054_1_9
+acc: 0.612266424557425
+
+Mean acc: 0.5372775251160188

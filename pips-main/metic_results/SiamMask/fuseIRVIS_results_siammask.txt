@@ -1,0 +1,275 @@
+test_root_path: results/Anti-UAV/model
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_10
+acc: 0.25551273119566736
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_1
+acc: 0.6179789610535102
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_5
+acc: 0.028494026697531732
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_2
+acc: 0.2583933862949061
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_3
+acc: 0.5505107414949044
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_4
+acc: 0.3482835198891757
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_7
+acc: 0.26623858025916736
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_6
+acc: 0.19357449474515406
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_8
+acc: 0.0017298657999524243
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_111757_1_9
+acc: 0.2613327642527889
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_10
+acc: 0.2205350756799106
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_1
+acc: 0.7204037486181254
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_2
+acc: 0.5134502384662474
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_3
+acc: 0.6692287497355563
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_4
+acc: 0.4007094938335534
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_5
+acc: 0.02571332717084393
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_1
+acc: 0.12753229965178892
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_6
+acc: 0.30752993435340836
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_2
+acc: 0.11237379391913367
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_9
+acc: 0.02825904877711298
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_8
+acc: 0.015518005645757327
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124000_1_7
+acc: 0.024029289600559188
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_8
+acc: 0.21122163926518536
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_5
+acc: 0.37019798948273774
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_6
+acc: 0.6095073605512716
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_7
+acc: 0.43884477812755596
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_4
+acc: 0.40480780251199255
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_124612_1_3
+acc: 0.021321121342607833
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_1
+acc: 0.20406325324450372
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_3
+acc: 0.003052993618012286
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_6
+acc: 0.015116176831005228
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_4
+acc: 0.29400392878184933
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_5
+acc: 0.410045299697095
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_2
+acc: 0.38542454568177603
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_7
+acc: 0.3961167743367992
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_9
+acc: 0.017353490334393762
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_3
+acc: 0.04202747983226733
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_2
+acc: 0.09665923330597001
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_134301_1_8
+acc: 0.13444920301013163
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_1
+acc: 0.3437533310259581
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_4
+acc: 0.05084299160364364
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_8
+acc: 0.015331756450655643
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_7
+acc: 0.05413718203887055
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_6
+acc: 0.03792007397647833
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_5
+acc: 0.02257165761063418
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_193610_1_9
+acc: 0.057046241925673175
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_1
+acc: 0.01188072065196025
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_2
+acc: 0.033624594708423564
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_3
+acc: 0.015943157182572627
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_4
+acc: 0.0956489821702534
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_5
+acc: 0.038128664723352544
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_6
+acc: 0.062372446521965504
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_8
+acc: 0.04515245212545881
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_9
+acc: 0.06177807644864795
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_1
+acc: 0.17346025141228077
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190925_200805_1_7
+acc: 0.0009686149498300185
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_3
+acc: 0.06884313648417549
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_2
+acc: 0.7081890914771198
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_9
+acc: 0.7369968439453914
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_6
+acc: 0.213453888649298
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_7
+acc: 0.6117289581416335
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_8
+acc: 0.6177028996029383
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_4
+acc: 0.5674867715811127
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_095902_1_5
+acc: 0.5323267875512593
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_6
+acc: 0.6758020979854706
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_3
+acc: 0.5328340409063229
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_5
+acc: 0.6279214446334354
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_4
+acc: 0.06788133642453738
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_2
+acc: 0.14641241526230506
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_1
+acc: 0.6993288461322242
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_9
+acc: 0.08716339644368676
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_2
+acc: 0.6508257853761605
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_3
+acc: 0.5953931141049933
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_7
+acc: 0.6687342928148203
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_102042_1_8
+acc: 0.5748306612816889
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_1
+acc: 0.7464778379077309
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_9
+acc: 0.720539864717804
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_7
+acc: 0.261307564436849
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_8
+acc: 0.7040499953400913
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_5
+acc: 0.5439902139411956
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_6
+acc: 0.6257467538504751
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_111509_1_4
+acc: 0.7169379515155843
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_6
+acc: 0.5645494392460477
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_4
+acc: 0.2500729453734711
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_5
+acc: 0.43964336020323197
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_2
+acc: 0.356958713255308
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_3
+acc: 0.553787268787027
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_1
+acc: 0.6460675810617075
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_8
+acc: 0.5734762382505751
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_9
+acc: 0.5250087674488723
+
+Subfolder: /root/autodl-tmp/pysot/testing_dataset/Anti-UAV/20190926_134054_1_7
+acc: 0.5426782061757297
+
+Mean acc: 0.3217280753068884

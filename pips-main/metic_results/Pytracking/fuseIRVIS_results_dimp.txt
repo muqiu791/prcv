@@ -1,0 +1,266 @@
+test_root_path: /root/autodl-tmp/pytracking/pytracking/tracking_results/dimp/dimp50
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_1
+acc: 0.6852944013119171
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_10
+acc: 0.24301282886066147
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_2
+acc: 0.1547278507248015
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_3
+acc: 0.4413686099634858
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_4
+acc: 0.6497510254651766
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_5
+acc: 0.03625301981451575
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_6
+acc: 0.24300305745576786
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_7
+acc: 0.40167300956190644
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_111757_1_9
+acc: 0.3451771212850418
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_1
+acc: 0.7103542679527853
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_10
+acc: 0.5213111606016523
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_2
+acc: 0.6178464294627117
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_3
+acc: 0.6017796765287319
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_4
+acc: 0.4116581876463318
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_5
+acc: 0.0499848998241697
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_6
+acc: 0.2959853633839136
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_7
+acc: 0.025564501905872627
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_8
+acc: 0.3442869934597185
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124000_1_9
+acc: 0.1549791188825322
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_1
+acc: 0.1915889065216806
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_2
+acc: 0.20574669739799137
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_3
+acc: 0.010118736890741206
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_4
+acc: 0.6610060083634682
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_5
+acc: 0.7059666413075615
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_6
+acc: 0.7403766779119787
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_7
+acc: 0.5730763983346037
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_124612_1_8
+acc: 0.26901670578050363
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_1
+acc: 0.4062268728229429
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_2
+acc: 0.5025394215987055
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_3
+acc: 0.022556266030924338
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_4
+acc: 0.2776905129121143
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_5
+acc: 0.4903120423730215
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_6
+acc: 0.2643920060229124
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_7
+acc: 0.47232862536076303
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_8
+acc: 0.19005201635764427
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_134301_1_9
+acc: 0.5433487597106251
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_2
+acc: 0.1999810687798074
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_3
+acc: 0.40873027842747717
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_4
+acc: 0.09806154761344815
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_5
+acc: 0.30892012796383556
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_6
+acc: 0.33734376458666004
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_7
+acc: 0.4229803388592597
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_8
+acc: 0.5049126484060213
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_193610_1_9
+acc: 0.5677713455159423
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_1
+acc: 0.12292318688423906
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_2
+acc: 0.09065762611208976
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_3
+acc: 0.28842905732909535
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_4
+acc: 0.13114598220321824
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_5
+acc: 0.19022437985859975
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_6
+acc: 0.17681007708004506
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_7
+acc: 0.0010438413361169101
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190925_200805_1_9
+acc: 0.17189671873281187
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_1
+acc: 0.68734187227092
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_2
+acc: 0.6744189836439209
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_3
+acc: 0.07264558603594201
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_4
+acc: 0.5590988973192975
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_5
+acc: 0.4573260384800845
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_6
+acc: 0.4555053965287157
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_7
+acc: 0.6318529275004625
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_8
+acc: 0.6435185731884261
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_095902_1_9
+acc: 0.7301748787892822
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_1
+acc: 0.6809746667110991
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_2
+acc: 0.18292713857685303
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_3
+acc: 0.4225648245918546
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_4
+acc: 0.5386548727779265
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_5
+acc: 0.0662805260887527
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_6
+acc: 0.5985116787745549
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_7
+acc: 0.6483364680173787
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_8
+acc: 0.6388801390316172
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_102042_1_9
+acc: 0.5956127672823054
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_1
+acc: 0.6050391846656133
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_2
+acc: 0.571076722706404
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_3
+acc: 0.5524018895494202
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_4
+acc: 0.7018328101625724
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_5
+acc: 0.5146914018274157
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_6
+acc: 0.6727520762694994
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_7
+acc: 0.245656643748811
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_8
+acc: 0.640682392869762
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_111509_1_9
+acc: 0.6651388958172942
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_1
+acc: 0.5575737234149862
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_2
+acc: 0.46336102503324733
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_3
+acc: 0.4232164311729389
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_4
+acc: 0.045364056288307766
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_5
+acc: 0.4239536824614359
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_6
+acc: 0.6001463455970979
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_7
+acc: 0.6172401153483917
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_8
+acc: 0.6147172227237461
+
+Subfolder: /root/autodl-tmp/pytracking/pytracking/data/Anti-UAV/test/20190926_134054_1_9
+acc: 0.5829083917957346
+
+Mean acc: 0.41209734155159783

@@ -1,0 +1,266 @@
+test_root_path: /root/autodl-tmp/MixFormer/test/tracking_results/mixformer_convmae_online/baseline_large
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_1
+acc: 0.7070110097034615
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_10
+acc: 0.2498346112956742
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_2
+acc: 0.33331300419329685
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_3
+acc: 0.6423673453876132
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_4
+acc: 0.46089922236252
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_5
+acc: 0.45790924393954585
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_6
+acc: 0.2825017335420054
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_7
+acc: 0.26964472447694654
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_111757_1_9
+acc: 0.3447422160740299
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_1
+acc: 0.7620054272073562
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_10
+acc: 0.5847828580266631
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_2
+acc: 0.693379411872759
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_3
+acc: 0.6531042669840845
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_4
+acc: 0.4511249892050715
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_5
+acc: 0.11893275777851643
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_6
+acc: 0.3323504647209467
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_7
+acc: 0.42422003390363094
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_8
+acc: 0.2595953506824345
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124000_1_9
+acc: 0.3240901471845401
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_1
+acc: 0.5471666688585826
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_2
+acc: 0.39534390321672946
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_3
+acc: 0.043970407204088596
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_4
+acc: 0.7257623763461699
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_5
+acc: 0.728736016153129
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_6
+acc: 0.7601755369589478
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_7
+acc: 0.5743615838771154
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_124612_1_8
+acc: 0.4716063349197052
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_1
+acc: 0.3945749275777512
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_2
+acc: 0.49980559965057564
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_3
+acc: 0.3938043551365798
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_4
+acc: 0.4194913519554202
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_5
+acc: 0.4283237515826908
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_6
+acc: 0.31699664809179295
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_7
+acc: 0.5618379149751713
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_8
+acc: 0.6473439133204948
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_134301_1_9
+acc: 0.5384524503014739
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_2
+acc: 0.6841317359783081
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_3
+acc: 0.6759669667937153
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_4
+acc: 0.7073208178488974
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_5
+acc: 0.03557583124683707
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_6
+acc: 0.8205716013692372
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_7
+acc: 0.8389301018790151
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_8
+acc: 0.7883844866470765
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_193610_1_9
+acc: 0.7860444356518111
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_1
+acc: 0.2636949233502104
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_2
+acc: 0.41154957266194814
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_3
+acc: 0.5967083298445718
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_4
+acc: 0.5207506550785551
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_5
+acc: 0.3904386545000222
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_6
+acc: 0.4744354287764707
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_7
+acc: 0.5186841468522998
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190925_200805_1_9
+acc: 0.5969168808720101
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_1
+acc: 0.7545361835583597
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_2
+acc: 0.7495835752803798
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_3
+acc: 0.48137645742760726
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_4
+acc: 0.622951403855991
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_5
+acc: 0.6091321328306227
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_6
+acc: 0.7053078655947473
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_7
+acc: 0.6791438217250112
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_8
+acc: 0.6860569098827128
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_095902_1_9
+acc: 0.7205556543947778
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_1
+acc: 0.8093513125720875
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_2
+acc: 0.42971410797550463
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_3
+acc: 0.5342881554515856
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_4
+acc: 0.6249988812150167
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_5
+acc: 0.21248333660209603
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_6
+acc: 0.6692395605843438
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_7
+acc: 0.6314651965994653
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_8
+acc: 0.713905032116935
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_102042_1_9
+acc: 0.6813891667602046
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_1
+acc: 0.7759152985369023
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_2
+acc: 0.7418490109454982
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_3
+acc: 0.6238907017568822
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_4
+acc: 0.6642443645428259
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_5
+acc: 0.6833739172859395
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_6
+acc: 0.6852206812602948
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_7
+acc: 0.6938385690876211
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_8
+acc: 0.7660518259764615
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_111509_1_9
+acc: 0.6109603474882221
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_1
+acc: 0.5583651594925356
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_2
+acc: 0.5143619858965411
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_3
+acc: 0.5580217670395694
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_4
+acc: 0.3733801901149812
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_5
+acc: 0.4886137135858595
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_6
+acc: 0.5988097529766473
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_7
+acc: 0.6053507243301687
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_8
+acc: 0.6190010688769378
+
+Subfolder: /root/autodl-tmp/MixFormer/data/Anti-UAV/test/20190926_134054_1_9
+acc: 0.609668322926518
+
+Mean acc: 0.5499552645973451
