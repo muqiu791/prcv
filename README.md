@@ -28,7 +28,6 @@ Runs according to the framework in four modules:
 ``python tracking/demo.py``
 
 1. The affine transformation matrix is then calculated by run:
-``python tracking/select_tra.py``
 ``python tracking/affine matric.py``
 
 and we can get aff_VIS images in ./Myoutputs/
@@ -63,5 +62,5 @@ To evaluate the anti-UAV problem, we can run:
 
 Our approach outperforms existing SOTA trackers on the Anti-UAV dataset, showing substantial improvements in tracking performance in diverse challenging scenarios.
 
+### Metric_results
 More details on the results of the experiment can be found here   
-"metric_results"
