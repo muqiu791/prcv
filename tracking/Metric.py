@@ -1,5 +1,3 @@
-# 计算检测成功的比例
-# 在两个阈值下  threshod =0.5 or 0.7
 import datetime
 
 import numpy as np

@@ -20,16 +20,11 @@ np.random.seed(42)
 # trajs_e shape torch.Size([1, 8, 24, 2])
 
 # RGBTmodel = 'visible'  # 'infrared' 'visible' 'fuseIRVIS' 'fuseIR_UnaffVIS'
-# for RGBTmodel in ['infrared', 'visible', 'fuseIRVIS']:
 for RGBTmodel in ['fuseIRVIS']:
     H,W = 512, 640
 
-    # 指定数据集根目录
-    if RGBTmodel == 'infrared' or RGBTmodel == 'visible':
-        dataset_root = 'E:/PIPs/Anti-UAV-RGBT/test'
-    else:
-        dataset_root = 'E:/UNIFusion-main/outputs/Anti-UAV-RGBT/test'
-    output_root = 'E:/PIPs/pips-main/Myoutput/Anti-UAV-RGBT/test'
+    dataset_root = '../../fusing/outputs/Anti-UAV-RGBT/test'
+    output_root = '../../tracking/Myoutput/Anti-UAV-RGBT/test'
 
     # 获取所有子文件夹的列表
     subfolders = [f.path for f in os.scandir(output_root) if f.is_dir()]
@@ -332,7 +327,7 @@ for RGBTmodel in ['fuseIRVIS']:
         valid_json = json.dumps(valid_data)
 
         # 保存距离数据文件
-        dist_json_path = './MyOutput/' + output_subfolder + '/' + RGBTmodel + '_distances_4.json'
+        dist_json_path = './MyOutput/' + output_subfolder + '/' + RGBTmodel + '_distances.json'
         os.makedirs(os.path.dirname(dist_json_path), exist_ok=True)
 
         with open(dist_json_path, 'w') as output_file:
