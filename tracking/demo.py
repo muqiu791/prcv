@@ -202,12 +202,15 @@ def main():
     S = 8
     H, W = 512, 640
     N = 16 + 8  # number of po'/;'nts to track
-
+    
+    current_dir = os.path.dirname(__file__)
     # 指定数据集根目录
     if RGBTmodel == 'infrared' or RGBTmodel == 'visible':
-        dataset_root = '../../Anti-UAV-RGBT/test'
+        dataset_root = '../Anti-UAV-RGBT/test'
     else:
-        dataset_root = '../../fusing/outputs/Anti-UAV-RGBT/test'
+        dataset_root = '../fusing/outputs/Anti-UAV-RGBT/test'
+
+    dataset_root = os.path.abspath(os.path.join(current_dir, dataset_root))
 
     # 获取所有子文件夹的列表
     subfolders = [f.path for f in os.scandir(dataset_root) if f.is_dir()]

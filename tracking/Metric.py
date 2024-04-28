@@ -64,8 +64,11 @@ def success_count(test: List, gt: List, threshod: float) -> int:
 
 def main():
     global sum_percentage
-
+    
+    current_dir = os.path.dirname(__file__)
     dataset_root = '../../fusing/outputs/Anti-UAV-RGBT/test'
+    dataset_root = os.path.abspath(os.path.join(current_dir, dataset_root))
+
     # 获取所有子文件夹的列表
     subfolders = [f.path for f in os.scandir(dataset_root) if f.is_dir()]
 

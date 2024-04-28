@@ -1,6 +1,14 @@
 % Specify the root directory containing subfolders
-dataset_root = '../../Anti-UAV-RGBT/test';
-outputRoot = '../../tracking/Myoutput/Anti-UAV-RGBT/test';
+current_dir = fileparts(mfilename('fullpath'));
+
+dataset_root = '../Anti-UAV-RGBT/test';
+outputRoot = '../tracking/Myoutput/Anti-UAV-RGBT/test';
+
+% 计算相对路径
+dataset_root = fullfile(current_dir, dataset_root);
+outputRoot = fullfile(current_dir, outputRoot);
+
+
 
 % Get a list of subfolders in the specified root directory
 subfolders = dir(outputRoot);
@@ -24,7 +32,7 @@ for folderIdx = 1:length(subfolders)
 
     % 显示匹配到的文件
     disp('匹配到的文件:');
-    disp({filesInSubfolder.name}');
+    disp({filesInSubfolder.name});
     for fileIdx = 1:length(filesInSubfolder)
 
         fileName = filesInSubfolder(fileIdx).name;

@@ -49,19 +49,14 @@ def load_model(path, input_nc, output_nc):
 
 
 def _generate_fusion_image(model, strategy_type, img1, img2):
-    # encoder
-    # print('strategy_type',strategy_type)
-    # print('img1',img1)
-    # print('img2',img2)
-    # print('img1.shape',img1.shape)
+
     en_r = model.encoder(img1)
     en_v = model.encoder(img2)
-    # print('en_r',en_r)
-    # print('en_v',en_v)
+
     f = model.fusion(en_r, en_v, strategy_type=strategy_type)
-    # print('f',f)
+
     img_fusion = model.decoder(f);
-    # print('img_fusion',img_fusion)
+
     return img_fusion[0]
 
 
@@ -124,15 +119,6 @@ def run_demo(model, irBase_path, irDetail_path, visBase_path, visDetail_path, ou
     fusedBase = fusedBase.numpy();
     fusedBase = fusedBase * 255;
 
-    # fusedBase_output_path = output_path_root + '/fuseBase/'
-    # if not os.path.exists(fusedBase_output_path):
-    #     os.makedirs(fusedBase_output_path)
-    # fusedBase_output_path = fusedBase_output_path + str(index) + '.png'
-    # print('fusedBase.shape',fusedBase.shape)
-    # if fusedBase.shape[0] == 3:  # RGB 图像
-    #     fusedBase = fusedBase.transpose(1, 2, 0).astype('uint8')  # 从 (C, H, W) 转换为 (H, W, C)
-    # imsave(fusedBase_output_path, fusedBase);
-
     # Detail max
 
     fusedDetail = fusedDetail[0].cpu();
@@ -142,12 +128,6 @@ def run_demo(model, irBase_path, irDetail_path, visBase_path, visDetail_path, ou
 
     # sub
     fusedDetail = fusedDetail - np.mean(fusedBase);
-
-    # fusedDetail_output_path = output_path_root + '/fuseDetail/'
-    # if not os.path.exists(fusedDetail_output_path):
-    #     os.makedirs(fusedDetail_output_path)
-    # fusedDetail_output_path = fusedDetail_output_path + str(index) + '.png'
-    # imsave(fusedDetail_output_path, fusedDetail);
 
     # finalFuseResult
     Y_fusedFinalResult = fusedDetail + fusedBase;
@@ -170,8 +150,9 @@ def run_demo(model, irBase_path, irDetail_path, visBase_path, visDetail_path, ou
 
 
 def main():
-    dataset_root = '../../Anti-UAV-RGBT/test'
-    test_root_path = '../../tracking/Myoutput/Anti-UAV-RGBT/test'
+    current_dir = os.path.dirname(__file__)
+    dataset_root = os.path.abspath(os.path.join(current_dir,'../Anti-UAV-RGBT/test'))
+    test_root_path = os.path.abspath(os.path.join(current_dir,'../tracking/Myoutput/Anti-UAV-RGBT/test'))
 
     fusion_type = 'auto'  # auto, fusion_layer, fusion_all
     strategy_type_list = ['AVG', 'L1', 'SC', 'MAX',

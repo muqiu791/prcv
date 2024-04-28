@@ -20,8 +20,10 @@ RGBTmodel = 'infrared'  # 'infrared' 'visible'
 H, W = 512, 640
 
 # 指定数据集根目录
-dataset_root = '../../Anti-UAV-RGBT/test'
-output_root = '../../tracking/Myoutput/Anti-UAV-RGBT/test'
+current_dir = os.path.dirname(__file__)
+dataset_root = os.path.abspath(os.path.join(current_dir,'../Anti-UAV-RGBT/test'))
+output_root = os.path.abspath(os.path.join(current_dir,'../tracking/Myoutput/Anti-UAV-RGBT/test'))
+
 
 # 获取所有子文件夹的列表
 subfolders = [f.path for f in os.scandir(output_root) if f.is_dir()]

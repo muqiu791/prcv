@@ -20,6 +20,10 @@ They each correspond to a requirements.txt in subfolder.
 You can use it by:
 ``pip install -r requirements.txt``
 
+## Anti-UAV Datasets
+For the 1st Anti-UAV datasets you can find in the official repository for [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV)
+
+
 ## How to use
 Runs according to the framework in four modules:
 

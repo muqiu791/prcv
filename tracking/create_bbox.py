@@ -22,9 +22,9 @@ np.random.seed(42)
 # RGBTmodel = 'visible'  # 'infrared' 'visible' 'fuseIRVIS' 'fuseIR_UnaffVIS'
 for RGBTmodel in ['fuseIRVIS']:
     H,W = 512, 640
-
-    dataset_root = '../../fusing/outputs/Anti-UAV-RGBT/test'
-    output_root = '../../tracking/Myoutput/Anti-UAV-RGBT/test'
+    current_dir = os.path.dirname(__file__)
+    dataset_root = os.path.abspath(os.path.join(current_dir,'../fusing/outputs/Anti-UAV-RGBT/test'))
+    output_root = os.path.abspath(os.path.join(current_dir,'../tracking/Myoutput/Anti-UAV-RGBT/test'))
 
     # 获取所有子文件夹的列表
     subfolders = [f.path for f in os.scandir(output_root) if f.is_dir()]
@@ -34,7 +34,7 @@ for RGBTmodel in ['fuseIRVIS']:
 
     for subfolder in subfolders:
         # 拼接 'infrared.json' 文件路径
-        tra_json_path = os.path.join(subfolder, f'{RGBTmodel}_tra_16.json')
+        tra_json_path = os.path.join(subfolder, f'{RGBTmodel}_tra.json')
         print('folr_path', tra_json_path)
 
         # 使用 os.path.split 分割路径
@@ -310,7 +310,7 @@ for RGBTmodel in ['fuseIRVIS']:
         bbox_json = json.dumps(bbox_data,indent=2)
 
         # 保存目标框文件
-        bbox_json_path = dataset_root + '/' + tail + '/' + RGBTmodel + '_bbox_4.json'
+        bbox_json_path = dataset_root + '/' + tail + '/' + RGBTmodel + '_bbox.json'
         # 确保目录存在，如果不存在则创建
         print('bbox_o=path',bbox_json_path)
         os.makedirs(os.path.dirname(bbox_json_path), exist_ok=True)
